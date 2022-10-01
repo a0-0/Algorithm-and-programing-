@@ -1,0 +1,16 @@
+G:\uni\Algorithmization and programming labs\bin\Debug\Algorithmization and programming labs.exe.config
+G:\uni\Algorithmization and programming labs\bin\Debug\Algorithmization and programming labs.exe
+G:\uni\Algorithmization and programming labs\bin\Debug\Algorithmization and programming labs.pdb
+G:\uni\Algorithmization and programming labs\bin\Debug\Algorithmization and programming labs.xml
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.vbproj.AssemblyReference.cache
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.vbproj.SuggestedBindingRedirects.cache
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization_and_programming_labs.Form1.resources
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization_and_programming_labs.Resources.resources
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.vbproj.GenerateResource.cache
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.vbproj.CoreCompileInputs.cache
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.exe
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.xml
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization and programming labs.pdb
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization_and_programming_labs.Data_Student.resources
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization_and_programming_labs.work.resources
+G:\uni\Algorithmization and programming labs\obj\Debug\Algorithmization_and_programming_labs.lab1.resources
